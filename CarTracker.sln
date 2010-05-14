@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTracker", "CarTracker\CarTracker.csproj", "{BC384B9B-4BAB-4243-BC64-A248806455C8}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "CarTrackerInstall", "CarTrackerInstall\CarTrackerInstall.vddproj", "{38BAF64B-CB3B-472B-9B6F-62559DB2D257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC384B9B-4BAB-4243-BC64-A248806455C8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{38BAF64B-CB3B-472B-9B6F-62559DB2D257}.Debug|Any CPU.ActiveCfg = Debug
+		{38BAF64B-CB3B-472B-9B6F-62559DB2D257}.Debug|Any CPU.Build.0 = Debug
+		{38BAF64B-CB3B-472B-9B6F-62559DB2D257}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
